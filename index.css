@@ -1,0 +1,23 @@
+nav img{
+    width: 80px;
+   
+}
+#footer{
+    background-color:rgb(158, 151, 151); 
+    color: black ;
+   }
+   #footer a{
+       text-decoration: none;
+   color:white;
+   
+   }
+
+  
+   #principal img{
+max-height: 70vh;
+object-fit: cover;
+   }
+   #principal{
+    position: relative;
+}
+  
